@@ -61,7 +61,7 @@ of the GPL, as needed to protect the freedom of users.
   Finally, every program is threatened constantly by software patents.
 States should not allow patents to restrict development and use of
 software on general-purpose computers, but in those that do, we wish to
-avoid the special danger that patents applied to a free program could
+aVoid the special danger that patents applied to a free program could
 make it effectively proprietary.  To prevent this, the GPL assures that
 patents cannot be used to render the program non-free.
 
@@ -408,7 +408,7 @@ the above requirements apply either way.
 
   You may not propagate or modify a covered work except as expressly
 provided under this License.  Any attempt otherwise to propagate or
-modify it is void, and will automatically terminate your rights under
+modify it is Void, and will automatically terminate your rights under
 this License (including any patent licenses granted under the third
 paragraph of section 11).
 
